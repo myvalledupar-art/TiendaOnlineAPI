@@ -30,9 +30,9 @@ La aplicación está organizada en capas:
 - `Postman-UsuarioConfirmacion.png`
 
 ## 📌 Instalación y ejecución
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/AppOnline.git
+## 👤 Autor
+- Christian Angelone Hernández  
+- GitHub: [@myvalledupar-art](https://github.com/myvalledupar-art)
 
 
 ## 📌Configura la base de datos en:
